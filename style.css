@@ -1,0 +1,12 @@
+div{
+    border:purple 8px solid;
+    background-color: orange;
+	}
+h2{
+	border:green 2px dotted;
+	text-align: center;
+	padding: 8px 0px;
+	margin: 30px 25px 50px 80px;
+	background-color: #fff;
+	font-size: 13px;
+}
